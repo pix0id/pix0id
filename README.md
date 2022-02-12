@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pix0id
+- 👋 Hi, I’m Alex, you can find me around the 'net as @pix0id.
 - 👀 I’m interested in Full stack web development, all things gaming, and great coffee.
 - 🌱 I’m currently learning React, Node, and typescript.
 - 💞️ I’m looking to collaborate on any interesing project looking for a javascript developer!
