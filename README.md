@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex, you can find me around the 'net as [@pix0id](twitter.com/pix0id)
-- 👀 I’m interested in Full stack web development, all things gaming, and great coffee.
-- 🌱 I’m currently learning React, Python, and Django.
-- 💞️ I’m looking to collaborate on any interesing project looking for a javascript developer!
-- 📫 How to reach me : [On my website](https://www.alexsollman.dev) or [Twitter](twitter.com/pix0id). or here on gh!
+- 👀 I’m interested in Full stack web development
+- 🌱 I’m currently learning React, Django, and SQL
+- 💞️ I’m looking to collaborate on any interesing project looking for a javascript or Python developer!
+- 📫 How to reach me : [On my website](https://www.alexsollman.dev) or [Twitter](twitter.com/pix0id).
