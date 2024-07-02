@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer from PDX working on getting better every day.<br><br>Currently working with:<br>- Python<br>- Javascript<br>- PHP
+Developer from PDX working on getting better every day.<br><br>Currently working with:<br>- Python<br>- Javascript<br>- SQL
 
 
 ## 🌐 Socials:
